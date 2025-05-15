@@ -1,0 +1,184 @@
+{
+  "Header": {
+    "title": "",
+    "paragraph": ""
+  },
+  "About": {
+    "paragraph": "A Pensa Reg – Inteligência em Saúde visa inovar na área de inteligência em saúde,\nfacilitando o acesso à informação para empresas da área farmacêutica e governos.\nNosso projeto tem como objetivo criar uma plataforma que reunirá informações\ndesde o registro de um medicamento até sua incorporação no Sistema Único de\nSaúde - SUS. Com base em tendências do mercado farmacêutico, acreditamos que\nnossa solução pode impactar positivamente o mercado, melhorar processos e\nacelerar tomada de decisões que agilize o acesso da população às inovações da\nárea de saúde. Este projeto será desenvolvido para atender às necessidades tanto\nda indústria farmacêutica quanto de governos, com o intuito de alcançar clientes\nnos primeiros meses de lançamento da plataforma",
+    "Why": [
+      "Plataforma estável e confiável",
+      "Dados oficiais atualizados automaticamente",
+      "Filtros inteligentes de busca",
+      "Exportação prática e rápida"
+    ],
+    "Why2": [
+      "Interface moderna e acessível",
+      "Foco inicial em medicamentos",
+      "Visão de crescimento com gráficos analíticos",
+      "Suporte e melhorias contínuas"
+    ]
+  },
+  "Gallery": [
+    {
+      "title": "Project Title",
+      "largeImage": "img/portfolio/01-large.jpg",
+      "smallImage": "img/portfolio/01-small.jpg"
+    },
+    {
+      "title": "Project Title",
+      "largeImage": "img/portfolio/02-large.jpg",
+      "smallImage": "img/portfolio/02-small.jpg"
+    },
+    {
+      "title": "Project Title",
+      "largeImage": "img/portfolio/03-large.jpg",
+      "smallImage": "img/portfolio/03-small.jpg"
+    },
+    {
+      "title": "Project Title",
+      "largeImage": "img/portfolio/04-large.jpg",
+      "smallImage": "img/portfolio/04-small.jpg"
+    },
+    {
+      "title": "Project Title",
+      "largeImage": "img/portfolio/05-large.jpg",
+      "smallImage": "img/portfolio/05-small.jpg"
+    },
+    {
+      "title": "Project Title",
+      "largeImage": "img/portfolio/06-large.jpg",
+      "smallImage": "img/portfolio/06-small.jpg"
+    },
+    {
+      "title": "Project Title",
+      "largeImage": "img/portfolio/07-large.jpg",
+      "smallImage": "img/portfolio/07-small.jpg"
+    },
+    {
+      "title": "Project Title",
+      "largeImage": "img/portfolio/08-large.jpg",
+      "smallImage": "img/portfolio/08-small.jpg"
+    },
+    {
+      "title": "Project Title",
+      "largeImage": "img/portfolio/09-large.jpg",
+      "smallImage": "img/portfolio/09-small.jpg"
+    }
+  ],
+  "Services": [
+    {
+      "icon": "fa fa-database",
+      "name": "Coleta de Dados Regulatórios",
+      "text": "Captura automatizada e contínua de publicações relevantes do Diário Oficial da União (DOU) e da ANVISA."
+    },
+    {
+      "icon": "fa fa-search",
+      "name": "Consulta Pública com Filtros",
+      "text": "Ferramenta de busca avançada com diversos filtros."
+    },
+    {
+      "icon": "fa fa-download",
+      "name": "Exportação de Resultados",
+      "text": "Permite ao usuário exportar os dados encontrados em formatos como PDF, Excel e CSV para facilitar o uso em relatórios e análises externas."
+    },
+    {
+      "icon": "fa fa-history",
+      "name": "Histórico de Publicações",
+      "text": "Consulta centralizada ao histórico completo de publicações de um medicamento, com linha do tempo e comparativos de versões."
+    },
+    {
+      "icon": "fa fa-refresh",
+      "name": "Atualização de dados",
+      "text": "A base de dados é atualizada automaticamente, garantindo que os usuários tenham acesso às informações mais recentes e relevantes."
+    },
+    {
+      "icon": "fa fa-line-chart",
+      "name": "Suporte à Decisão",
+      "text": "Painéis de análise estratégica que ajudarão empresas e profissionais a interpretarem dados regulatórios de forma clara e eficaz."
+    }
+  ],
+  "Testimonials": [
+    {
+      "img": "img/testimonials/01.jpg",
+      "text": "\"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at.\"",
+      "name": "John Doe"
+    },
+    {
+      "img": "img/testimonials/02.jpg",
+      "text": "\"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at.\"",
+      "name": "Johnathan Doe"
+    },
+    {
+      "img": "img/testimonials/03.jpg",
+      "text": "\"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at.\"",
+      "name": "John Doe"
+    },
+    {
+      "img": "img/testimonials/04.jpg",
+      "text": "\"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at.\"",
+      "name": "Johnathan Doe"
+    },
+    {
+      "img": "img/testimonials/05.jpg",
+      "text": "\"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at.\"",
+      "name": "John Doe"
+    },
+    {
+      "img": "img/testimonials/06.jpg",
+      "text": "\"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at.\"",
+      "name": "Johnathan Doe"
+    }
+  ],
+  "Team": [
+    {
+      "img": "img/team/02.png",
+      "name": "Sofia Rodrigues",
+      "job": "CEO"
+    },
+    {
+      "img": "img/intro-bg.jpeg",
+      "name": "",
+      "job": "CTO"
+    },
+    {
+      "img": "img/team/01.jpeg",
+      "name": "Gabriel",
+      "job": "Desenvolvedor Full Stack"
+    },
+    {
+      "img": "img/intro-bg.jpeg",
+      "name": "Guilherme",
+      "job": "Desenvolvedor Full Stack"
+    }
+  ],
+  "Contact": {
+    "address": "4321 California St, San Francisco, CA 12345 ",
+    "phone": "+1 123 456 1234",
+    "email": "info@company.com",
+    "facebook": "fb.com",
+    "twitter": "twitter.com",
+    "youtube": "youtube.com"
+  },
+  "Features": [
+    {
+      "icon": "fa fa-search",
+      "title": "Barra de Pesquisa Avançada",
+      "text": "Permite buscar medicamentos por nome, substância ativa, laboratório, data de publicação e outros critérios regulatórios."
+    },
+    {
+      "icon": "fa fa-filter",
+      "title": "Filtros Personalizados",
+      "text": "Refine os resultados com filtros como tipo de documento, órgão emissor (ANVISA, DOU), data de publicação e categoria do medicamento."
+    },
+    {
+      "icon": "fa fa-bar-chart",
+      "title": "Dashboards",
+      "text": "Base integrada com publicações do Diário Oficial da União e ANVISA, com dashboards."
+    },
+    {
+      "icon": "fa fa-download",
+      "title": "Exportação de Dados",
+      "text": "Exporte os resultados das buscas em formatos como CSV, Excel ou PDF, facilitando análises e relatórios."
+    }
+  ]
+}
